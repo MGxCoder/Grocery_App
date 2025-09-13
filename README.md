@@ -97,5 +97,4 @@ To learn more about React Native, take a look at the following resources:
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 =======
-# Grocery_App
 >>>>>>> 7c3327fee3db39431c4d3f8cd0655d8d2a048f1c
